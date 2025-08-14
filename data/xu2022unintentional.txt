@@ -1,0 +1,9 @@
+@article{xu2022unintentional,
+  title={Unintentional action localization via counterfactual examples},
+  author={Xu, Jinglin and Chen, Guangyi and Lu, Jiwen and Zhou, Jie},
+  journal={IEEE transactions on image processing},
+  volume={31},
+  pages={3281--3294},
+  year={2022},
+  publisher={IEEE}
+}

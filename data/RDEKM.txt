@@ -1,0 +1,10 @@
+@article{xu2017re,
+  title={Re-weighted discriminatively embedded $ k $-means for multi-view clustering},
+  author={Xu, Jinglin and Han, Junwei and Nie, Feiping and Li, Xuelong},
+  journal={IEEE Transactions on Image Processing},
+  volume={26},
+  number={6},
+  pages={3016--3027},
+  year={2017},
+  publisher={IEEE}
+}

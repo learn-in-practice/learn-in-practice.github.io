@@ -1,0 +1,10 @@
+@article{xu2019multi,
+  title={Multi-view scaling support vector machines for classification and feature selection},
+  author={Xu, Jinglin and Han, Junwei and Nie, Feiping and Li, Xuelong},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={32},
+  number={7},
+  pages={1419--1430},
+  year={2019},
+  publisher={IEEE}
+}

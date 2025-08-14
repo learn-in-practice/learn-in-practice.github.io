@@ -1,0 +1,9 @@
+@article{xu2022probabilistic,
+  title={Probabilistic temporal modeling for unintentional action localization},
+  author={Xu, Jinglin and Chen, Guangyi and Zhou, Nuoxing and Zheng, Wei-Shi and Lu, Jiwen},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={3081--3094},
+  year={2022},
+  publisher={IEEE}
+}

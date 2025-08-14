@@ -1,0 +1,7 @@
+@inproceedings{xu2022finediving,
+  title={Finediving: A fine-grained dataset for procedure-aware action quality assessment},
+  author={Xu, Jinglin and Rao, Yongming and Yu, Xumin and Chen, Guangyi and Zhou, Jie and Lu, Jiwen},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={2949--2958},
+  year={2022}
+}
